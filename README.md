@@ -1,4 +1,4 @@
-# Hello in the 0neLucky0neee's repository
+# Hello in 0neLucky0neee's repository
 * **Luas:**
 * [1. Reconnect Bypass](#Reconnect-Bypass)
 * [2. Name Changer + Radar Exploit](#Name-Changer--Radar-Exploit)
