@@ -1,6 +1,21 @@
+# Name Changer + Radar Exploit
+A lua script designed to allow you to change your clan-tag by manipulating the "name" ConVar.
+![Preview_Name_Changer_+_radar_exploit](https://raw.githubusercontent.com/0neLucky0neee/Aimware_Luas/refs/heads/main/Name%20Changer/Assets/preview.png)
+
+## How to use
+Follow these steps:
+
+1. **Enable FFI:** Make sure you turned on "Allow insecure FFI" option, as shown below:
+![Image](https://raw.githubusercontent.com/0neLucky0neee/Aimware_Luas/refs/heads/main/Name%20Changer/Assets/LuaSecurity.png)
+2. **Load the script**
+3. **Join any match**
+4. **Choose the option:**
+   * **Misc** -> **Features** -> **Clan-tag/Name-tag**
+5. **Done! The clan-tag will be applied**
+
 # Reconnect Bypass
 A lua script designed to allow you to reconnect after getting kicked and to prevent griefing cooldowns.
-![Preview](https://raw.githubusercontent.com/0neLucky0neee/Aimware_Luas/refs/heads/main/Reconnect%20Bypass/Assets/preview.png)
+![Preview_Reconnect_Bypass](https://raw.githubusercontent.com/0neLucky0neee/Aimware_Luas/refs/heads/main/Reconnect%20Bypass/Assets/preview.png)
 
 ## How to use
 Follow these steps:
