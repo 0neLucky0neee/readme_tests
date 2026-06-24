@@ -1,5 +1,4 @@
-# Hello! Welcome to 0neLucky0neee's repository
-* **Luas:**
+# Quick Lua bookmarks
 * [1. Reconnect Bypass](#Reconnect-Bypass)
 * [2. Name Changer + Radar Exploit](#Name-Changer--Radar-Exploit)
 
