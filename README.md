@@ -1,10 +1,8 @@
 # Quick Lua bookmarks
 * [**1. Reconnect Bypass**](#Reconnect-Bypass)
 * [**2. Name Changer + Radar Exploit**](#Name-Changer--Radar-Exploit)
-*
-*
-*
-*
+* [**3. Soon**]
+
 # Reconnect Bypass
 A lua script designed to allow you to reconnect after getting kicked and to prevent griefing cooldowns.
 ![Preview_Reconnect_Bypass](https://raw.githubusercontent.com/0neLucky0neee/Aimware_Luas/refs/heads/main/Reconnect%20Bypass/Assets/preview.png)
